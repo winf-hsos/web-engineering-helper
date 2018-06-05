@@ -1,0 +1,30 @@
+{
+  "name": "web-engineering-helper",
+  "version": "0.0.1",
+  "description": "Components that make writing web apps in the course Web Engineering easier. Developed at the University of Applied Sciences in Osnabrueck.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winf-hsos/web-engineering-helper.git"
+  },
+  "keywords": [
+    "firebase",
+    "polymer",
+    "simplify",
+    "university",
+    "web",
+    "engineering"
+  ],
+  "author": "Nicolas Meseth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winf-hsos/web-engineering-helper/issues"
+  },
+  "homepage": "https://github.com/winf-hsos/web-engineering-helper#readme",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.2"
+  }
+}

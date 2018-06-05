@@ -1,2 +1,2 @@
-# web-engineering-helper
+# Web Engineering Helper
 Components that make writing web apps in the course Web Engineering easier. Developed at the University of Applied Sciences in Osnabrueck.
